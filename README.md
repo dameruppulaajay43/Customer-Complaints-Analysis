@@ -41,9 +41,9 @@ The dashboard includes:
 - Interactive filters for date, company and financial product
 
 ## Project Files
-- `01_Excel/` – Cleaned dataset and cleaning logs
-- `02_SQL/` – SQL analysis queries
-- `03_PowerBI/` – Power BI dashboard and screenshot
+- `Excel/` – Cleaned dataset and cleaning logs
+- `PowerBI/` – Power BI dashboard and screenshot
+- `SQL/` – SQL analysis queries
 - `Business_Analysis.pdf` – Business analysis and Recommendations
 - `AI_USAGE.pdf` – AI usage declaration
 
