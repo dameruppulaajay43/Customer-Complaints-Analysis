@@ -45,7 +45,7 @@ The dashboard includes:
 - `PowerBI/` – Power BI dashboard and screenshot
 - `SQL/` – SQL analysis queries
 - `Business_Analysis.pdf` – Business analysis and Recommendations
-- `AI_USAGE.pdf` – AI usage declaration
+- `AI_USAGE.md` – AI usage declaration
 
 ## Data Snapshot
 The analysis uses data up to 7 November 2026. October 2026 contains partial-month data.
